@@ -1,0 +1,17 @@
+name: Mirror to main account
+on:
+  push:
+    branches: [main]
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to main account repo
+        run: |
+          git remote add main-account https://x-access-token:${{ secrets.MAIN_ACCOUNT_TOKEN }}@github.com/itzme-aryan0007/Complete_DSA.git
+          git push main-account main --force
