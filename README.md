@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
