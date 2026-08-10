@@ -10,8 +10,10 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: false
 
       - name: Push to main account repo
         run: |
+          git config --global --unset-all http.https://github.com/.extraheader || true
           git remote add main-account https://x-access-token:${{ secrets.MAIN_ACCOUNT_TOKEN }}@github.com/itzme-aryan0007/Complete_DSA.git
           git push main-account main --force
