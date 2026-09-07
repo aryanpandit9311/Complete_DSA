@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
