@@ -102,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanpandit9311/Complete_DSA/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanpandit9311/Complete_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanpandit9311/Complete_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
